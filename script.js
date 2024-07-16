@@ -6,7 +6,7 @@ const seconds = document.querySelector(".seconds .number"),
 let secValue = 11,
   minValue = 2,
   hourValue = 2,
-  dayValue = 45;
+  dayValue = 28;
 
 const timeFunction = setInterval(() => {
   secValue--;
